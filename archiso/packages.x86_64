@@ -625,7 +625,7 @@ hwinfo
 qt5-xmlpatterns
 
 #desktop specific
-herbstlufwm
+herbstluftwm
 sxhkd
 polybar
 xdo
