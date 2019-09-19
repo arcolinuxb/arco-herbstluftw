@@ -481,7 +481,7 @@ arcolinux-applications-git
 arcolinux-arc-themes-nico-git
 #arcolinux-awesome-git
 arcolinux-bin-git
-arcolinux-bspwm-git
+#arcolinux-bspwm-git
 #arcolinux-common-git
 #arcolinux-config-cinnamon-git
 #arcolinux-config-deepin-git
