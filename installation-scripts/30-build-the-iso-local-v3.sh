@@ -21,7 +21,7 @@ outFolder="$HOME/ArcoLinuxB-Out"
 #Let us change the name"
 #First letter of desktop small
 desktop="hlwm"
-calamaresdesktopname="hlwm"
+calamaresdesktopname="herbstluftwm"
 
 #build.sh
 oldname1="iso_name=arcolinux"
