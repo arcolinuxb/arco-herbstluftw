@@ -29,7 +29,7 @@ echo
 	desktop="hlwm"
 	dmDesktop="herbstluftwm"
 
-	arcolinuxVersion='v21.05.8'
+	arcolinuxVersion='v21.05.9'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
